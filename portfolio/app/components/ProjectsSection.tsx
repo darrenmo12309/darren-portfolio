@@ -11,6 +11,8 @@ const projects = [
 		description: `A VSCode extension to streamline virtual experiment creation on Deliberation Lab's online experimentation platform.`,
 		image: '/dl.png',
 		github: 'https://github.com/Watts-Lab/deliberation-lab-tools',
+		page: '/project-pages/deliberation',
+
 	},
 	{
 		id: 2,
@@ -18,6 +20,7 @@ const projects = [
 		description: 'Social media platform for Penn students to connect and share experiences',
 		image: '/laptop.jpg',
 		github: 'https://github.com/upenn-nets-2120/project-instalite-darren',
+		page: '/project-pages/instalite',
 	},
 	{
 		id: 3,
@@ -25,6 +28,7 @@ const projects = [
 		description: 'Email client that uses AI to summarize, categorize, and autogenerate replies to emails',
 		image: '/mailbites.png',
 		github: 'https://github.com/darrenmo12309/mail-bites',
+		page: '/project-pages/mailbites',
 	},
 	{
 		id: 4,
@@ -32,6 +36,7 @@ const projects = [
 		description: 'Three vehicle routing algorithms to minimize energy consumption for vehicles',
 		image: '/GNN.png',
 		github: 'https://github.com/darrenmo12309/STAT-4830-project-base',
+		page: '/project-pages/gnn',
 	},
 ];
 
@@ -65,7 +70,7 @@ export default function ProjectsSection() {
 							<h3 className="text-xl font-bold mb-2">{project.title}</h3>
 							<p className="text-gray-300 mb-4">{project.description}</p>
 							<div className="flex gap-4">
-								<Link href="#" className="text-sm px-4 py-2 bg-white/10 hover:bg-white/20 rounded-full transition-colors">
+								<Link href={project.page} className="text-sm px-4 py-2 bg-white/10 hover:bg-white/20 rounded-full transition-colors">
 									View Project
 								</Link>
 								<Link href={project.github} className="text-sm px-4 py-2 bg-white/10 hover:bg-white/20 rounded-full transition-colors">
