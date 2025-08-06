@@ -1,7 +1,5 @@
 # Darren Mo's Portfolio
 
-Originally based on Iancu Andrei’s template https://github.com/devportfoliotemplates/devportfoliotemplates/tree/main/modern-minimal-portfolio-template, licensed under MIT.
-
 ## Tech Stack
 
 - Next.js
@@ -104,4 +102,6 @@ Follow these steps to deploy your portfolio for free using GitHub and Vercel:
    - Click "Deploy"
 
 Your portfolio will be live in minutes with a free Vercel domain (e.g., `your-repo.vercel.app`). You can later add a custom domain in your Vercel project settings.
+
+### Originally based on Iancu Andrei’s template https://github.com/devportfoliotemplates/devportfoliotemplates/tree/main/modern-minimal-portfolio-template, licensed under MIT.
 
