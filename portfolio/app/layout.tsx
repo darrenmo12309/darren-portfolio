@@ -42,7 +42,7 @@ export const metadata: Metadata = {
 		siteName: 'Darren Mo - Portfolio',
 		images: [
 			{
-				url: '/og-image.jpg',
+				url: '/og-image.png',
 				width: 1200,
 				height: 630,
 				alt: 'Darren Mo - Modern Minimal Portfolio',
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
 		title: 'Darren Mo - Software Developer',
 		description: 'I am a student at the University of Pennsylvania, passionate about software development, machine learning, and social science. Explore my projects and skills.',
 		creator: '@yourusername',
-		images: ['/og-image.jpg'],
+		images: ['/og-image.png'],
 	},
 	robots: {
 		index: true,
