@@ -18,7 +18,7 @@ const projects = [
 		id: 2,
 		title: 'InstaLite',
 		description: 'Social media platform for Penn students to connect and share experiences',
-		image: '/laptop.jpg',
+		image: '/instalite.png',
 		github: 'https://github.com/upenn-nets-2120/project-instalite-darren',
 		page: '/project-pages/instalite',
 	},

@@ -24,7 +24,7 @@ export default function AboutMe() {
                         </p>
                         <div className="h-px bg-gradient-to-r from-transparent via-white/20 to-transparent" />
                         <p>
-                            I started programming in my first year of college, and since then I have developed a passion for building software. My interests range from tackling technical problems in the fields of social science and network analytics to simply building software to make life more conveinent for my peers and I.
+                            I started programming in my first year of college, and since then I have developed a passion for building software. My interests range from developing tools that advance research capabilties to creating personal applications that make life more convenient for everyone.
                         </p>
                         <div className="h-px bg-gradient-to-r from-transparent via-white/20 to-transparent" />
                         <p>
