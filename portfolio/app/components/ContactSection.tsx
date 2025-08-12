@@ -87,6 +87,16 @@ export default function ContactSection() {
 						</svg>
 					</a>
 				</motion.div>
+
+				<motion.p
+					initial={{ opacity: 0, y: 20 }}
+					whileInView={{ opacity: 1, y: 0 }}
+					viewport={{ once: true }}
+					transition={{ duration: 0.6, delay: 0.2 }}
+					className="text-gray-300 mb-6"
+				>
+					Template by Iancu Andrei and modified by Darren Mo
+				</motion.p>
 			</div>
 		</section>
 	);
