@@ -20,7 +20,7 @@ export default function AboutMe() {
                 <div className="relative rounded-2xl bg-white/5 backdrop-blur-sm ring-1 ring-white/10 shadow-xl">
                     <div className="px-6 md:px-10 py-8 md:py-10 text-center text-gray-300 space-y-6 text-base md:text-lg leading-relaxed">
                         <p>
-                            Hi there! My name is Darren Mo, and I'm currently a junior at the University of Pennsylvania pursuing a Bachelor of Science in Computer Science.
+                            Hi there! My name is Darren Mo, and I&apos;m currently a junior at the University of Pennsylvania pursuing a Bachelor of Science in Computer Science.
                         </p>
                         <div className="h-px bg-gradient-to-r from-transparent via-white/20 to-transparent" />
                         <p>
