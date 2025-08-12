@@ -30,7 +30,7 @@ export default function HeroSection() {
 					transition={{ duration: 0.8, delay: 0.4 }}
 					className="text-lg md:text-xl text-gray-300 mb-8 px-4"
 				>
-					Student at the University of Pennsylavnia passionate about software and machine learning.
+					Student at the University of Pennsylavnia passionate about software development and machine learning.
 				</motion.p>
 			</div>
 
