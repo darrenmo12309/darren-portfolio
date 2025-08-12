@@ -38,7 +38,7 @@ export const metadata: Metadata = {
 	openGraph: {
 		title: 'Darren Mo - Software Developer Portfolio',
 		description: 'I am a student at the University of Pennsylvania, passionate about software development, machine learning, and social science. Explore my projects and skills.',
-		url: 'https://your-domain.com',
+		url: 'https://darren-portfolio-seven.vercel.app/',
 		siteName: 'Darren Mo - Portfolio',
 		images: [
 			{
